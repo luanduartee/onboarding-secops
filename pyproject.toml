@@ -3,9 +3,9 @@ name = "pcdf"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "lduarte",email = "lduarte@brasal.com.br"}
+    {name = "luanduartee",email = "luanmateus.duarte@gmail.com"}
 ]
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 dependencies = [
 ]
 
